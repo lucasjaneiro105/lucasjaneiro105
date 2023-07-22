@@ -1,7 +1,7 @@
 ### Olá, bem-vindo ao meu GitHub 👋
 
 
-- 🔭 estudante de programação 
+- 🔭 Estudante de programação 
 - 🌱 Atualmente estudando a linguagem Java, mas também tenho noção e experiência em javascript, c, angular, SQL
 
 ![janeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjaneiro105&show_icons=true&theme=dracula&count_private=true)
