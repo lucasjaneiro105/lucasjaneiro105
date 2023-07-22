@@ -1,10 +1,17 @@
-### Olá, bem-vindo ao meu GitHub 👋
 
+
+<img width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=BABABA&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BABABA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Estudante de programação 
 - 🌱 Atualmente estudando a linguagem Java, mas também tenho noção e experiência em javascript, c, angular, SQL
 
-![janeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjaneiro105&show_icons=true&theme=dracula&count_private=true)
+
+<div align="center">
+  <a href="https://github.com/lucasjaneiro105">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasjaneiro105&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjaneiro105&hide_border=true&layout=compact&langs_count=16&theme=dark"/>
 
 ## Tecnologias que eu uso
 
