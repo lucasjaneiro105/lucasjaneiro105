@@ -1,4 +1,4 @@
-### Olá bem-vindo ao meu GitHub 👋
+### Olá, bem-vindo ao meu GitHub 👋
 
 
 - 🔭 estudante de programação 
