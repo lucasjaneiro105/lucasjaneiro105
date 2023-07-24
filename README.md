@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BABABA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Estudante de programação 
-- 🌱 Atualmente estudando a linguagem Java, mas também tenho noção e experiência em javascript, c, angular, SQL
+- 🌱 Atualmente estudando a linguagem Java, mas também tenho noção e experiência em javascript, c, angular e SQL
 
 
 <div align="center">
