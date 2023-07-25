@@ -24,3 +24,19 @@
    <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img align="center" title="VS Code" alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
 </div><br/>
+
+## Contatos
+<!-- LinkedIn Icon -->
+<a href="https://www.linkedin.com/in/lucas-janeiro-80a4b1249" target="_blank">
+  <img align="center" title="LinkedIn" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+<!-- Gmail Icon -->
+<a href="mailto:lucasjaneiro200@gmail.com" target="_blank">
+  <img align="center" title="Gmail" alt="Gmail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+</a>
+</div><br/>
+
+
+
+
+
