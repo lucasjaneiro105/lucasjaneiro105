@@ -27,7 +27,7 @@
    <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />&nbsp;
 </div><br/>
 
-## Contatos
+## Contato
 <!-- LinkedIn Icon -->
 <a href="https://www.linkedin.com/in/lucas-janeiro-80a4b1249" target="_blank">
   <img align="center" title="LinkedIn" alt="LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
