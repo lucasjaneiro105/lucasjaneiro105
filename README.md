@@ -13,6 +13,13 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjaneiro105&hide_border=true&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
+### Principais Repositórios 
+- [Pagina Cadastro com Java Servlet](https://github.com/lucasjaneiro105/Cadastro-de-Empresas-com-java-servlet.git)
+- [Aplicação Java com Teste Unitário](https://github.com/lucasjaneiro105/Pimeiro-Projeto-Java-Com-Junit.git)
+- [Pagina Web com Bootstrap](https://github.com/lucasjaneiro105/projeto-bootstrap.git)
+- [Aplicação Java com  Estrutura de Dados](https://github.com/lucasjaneiro105/Sistema-Escolar-com-ArrayList.git)
+- [Projeto de Analise de Dados](https://github.com/lucasjaneiro105/analise_dados_juypterlab.git)
+
 
 
 ## Tecnologias que eu uso
