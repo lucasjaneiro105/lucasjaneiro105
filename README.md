@@ -1,11 +1,9 @@
-
-
 <img width= 100% src="https://capsule-render.vercel.app/api?type=waving&color=BABABA&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=BABABA&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Estudante de TI
-- 🌱 Atualmente estudando dados
+- 🔭 Estudante de Tecnologia, atualmente no 6º semestre da faculdade
+- 🤖 Atualmente estudando ciência de dados e IA 📊
 
 <div align="center">
   <a href="https://github.com/lucasjaneiro105">
@@ -13,31 +11,18 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjaneiro105&hide_border=true&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-### Principais Repositórios 
-- [Pagina Cadastro com Java Servlet](https://github.com/lucasjaneiro105/Cadastro-de-Empresas-com-java-servlet.git)
-- [Aplicação Java com Teste Unitário](https://github.com/lucasjaneiro105/Pimeiro-Projeto-Java-Com-Junit.git)
-- [Pagina Web com Bootstrap](https://github.com/lucasjaneiro105/projeto-bootstrap.git)
-- [Consumindo uma API em Java](https://github.com/lucasjaneiro105/Consumindo-uma-API-em-Java-.git)
-- [Projeto de Analise de Dados](https://github.com/lucasjaneiro105/analise_dados_juypterlab.git)
-
-
-
 ## Tecnologias que eu uso
 
 <div style="display: inline_block">
- <img align="center" title="HTML" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" title="Javascript" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" title="Java" alt="Java" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
   <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" title="Tomcat" alt="Tomcat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />&nbsp;
-  <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" title="Power BI" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
+  <img align="center" title="Git" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" title="SQL" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" title="Azure" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" title="Google Cloud" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+  <img align="center" title="Power Automate" alt="Power Automate" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Automate-Colored.svg" />
+  <img align="center" title="Excel" alt="Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
 </div><br/>
-
-
-
 
 
 ## Contato
@@ -50,8 +35,3 @@
   <img align="center" title="Gmail" alt="Gmail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </a>
 </div><br/>
-
-
-
-
-
