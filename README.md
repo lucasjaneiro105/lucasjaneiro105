@@ -22,8 +22,6 @@
   <img align="center" title="Google Cloud" alt="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img align="center" title="Power Automate" alt="Power Automate" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Automate-Colored.svg" />
   <img align="center" title="Excel" alt="Excel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
-  <img align="center" title="Langchain" alt="Langchain" height="30" width="40" src="https://raw.githubusercontent.com/langchain-ai/langchainjs/main/docs/static/img/langchain-logo.png" />
-  <img align="center" title="OpenAI" alt="OpenAI" height="30" width="40" src="https://raw.githubusercontent.com/openai/openai-website/main/public/images/openai-logo.svg" />
 </div><br/>
 
 
