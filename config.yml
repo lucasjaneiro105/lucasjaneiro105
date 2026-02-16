@@ -43,18 +43,6 @@ galaxy_arms:
       - "Docker"
       - "RAG"
 
-# Projetos em Destaque
-# IMPORTANTE: Se os repositórios abaixo ainda não existirem com esse nome exato,
-# o gráfico pode não aparecer. Crie os repos ou ajuste os nomes aqui.
-projects:
-  - repo: "lucasjaneiro105/projeto-langgraph-duckdb" # Ajuste para o nome real do seu repo
-    arm: 0
-    description: "Agente autônomo com validação semântica de SQL usando LangGraph e DuckDB."
-  
-  - repo: "lucasjaneiro105/cybersecurity-osint" # Ajuste para o nome real do seu repo
-    arm: 2
-    description: "Ferramentas de OSINT para simulação de campanhas de phishing e defesa."
-
 # Cores do Tema (Padrão Dark Space)
 theme:
   void: "#080c14"
