@@ -264,8 +264,8 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
     <line x1="394.7" y1="176.8" x2="380.1" y2="187.3" stroke="#00d4ff" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="380.1" y="190.3" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">LLMS</text>
-    <text x="380.1" y="190.3" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">LLMS</text>
+    <text x="380.1" y="190.3" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">LLMs</text>
+    <text x="380.1" y="190.3" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">LLMs</text>
     <circle cx="284.2" cy="166.5" r="2.5" fill="#00d4ff" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.7s" repeatCount="indefinite"/>
     </circle>
@@ -324,8 +324,8 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="1.4s" repeatCount="indefinite"/>
     </circle>
     <line x1="407.4" y1="206.7" x2="401.6" y2="223.7" stroke="#ffb020" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="401.6" y="226.7" text-anchor="middle" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Docker</text>
-    <text x="401.6" y="226.7" text-anchor="middle" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Docker</text>
+    <text x="401.6" y="226.7" text-anchor="middle" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">LangSmith</text>
+    <text x="401.6" y="226.7" text-anchor="middle" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">LangSmith</text>
     <circle cx="203.8" cy="190.4" r="2.5" fill="#ffb020" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.0999999999999996s" repeatCount="indefinite"/>
     </circle>
@@ -334,7 +334,12 @@
     <text x="186.0" y="196.3" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">RAG</text>
 
   <!-- 9. Project stars -->
-
+    <circle cx="464.1" cy="86.5" r="4" fill="#00d4ff" filter="url(#star-glow-0)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="0.0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="171.4" cy="180.6" r="4" fill="#ffb020" filter="url(#star-glow-2)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
 
   <!-- 10. Orbital rings -->
     <ellipse cx="425" cy="155" rx="55" ry="18" fill="none" stroke="#00d4ff" stroke-width="0.6" opacity="0.15" stroke-dasharray="4 6">
@@ -362,6 +367,6 @@
 
   <!-- 12. Profile text -->
   <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">Lucas Janeiro</text>
-  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Engenheiro de IA | Especialista em Agentes</text>
+  <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">Engenheiro de IA | Automação Inteligente</text>
   <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">&quot;A automação inteligente é o futuro da eficiência.&quot;</text>
 </svg>
