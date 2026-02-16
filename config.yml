@@ -11,13 +11,11 @@ profile:
     Focado em construir Agentes de IA autônomos, automação de fluxos com n8n e análise de dados com Python.
   philosophy: '"A automação inteligente é o futuro da eficiência."'
 
-# Redes Sociais (Edite com seus links reais)
 social:
-  email: "seu.email@exemplo.com" # <--- COLOCAR SEU EMAIL
-  linkedin: "lucasjaneiro"       # <--- COLOCAR SEU USUARIO LINKEDIN
-  website: "https://github.com/lucasjaneiro105"
+  email: "lucasjaneiro200@gmail.com" 
+  linkedin: "https://www.linkedin.com/in/lucas-janeiro-80a4b1249/" 
+  website: "n/a"
 
-# Braços da Galáxia (Suas áreas de foco)
 galaxy_arms:
   - name: "AI Agents & LLMs"
     color: "synapse_cyan"
@@ -69,5 +67,5 @@ languages:
   exclude:
     - "HTML"
     - "CSS"
-    - "Jupyter Notebook" # Opcional: esconder notebooks se quiser focar em código puro
+    - "Jupyter Notebook"
   max_display: 8
