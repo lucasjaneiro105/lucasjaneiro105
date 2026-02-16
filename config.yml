@@ -38,12 +38,14 @@ galaxy_arms:
       - "Multi-Agentes"
       - "MCP"
       - "Engenharia de Prompt"
+      - "Arquitetura React"
   - name: "Backend"
     color: "synapse_cyan"
     items:
       - "LangGraph"
       - "LangChain"
       - "Agno"
+      - "n8n"
   - name: "DevOps"
     color: "axon_amber"
     items:
