@@ -264,26 +264,26 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
     <line x1="394.7" y1="176.8" x2="380.1" y2="187.3" stroke="#00d4ff" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="380.1" y="190.3" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">LangGraph</text>
-    <text x="380.1" y="190.3" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">LangGraph</text>
+    <text x="380.1" y="190.3" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">LLMS</text>
+    <text x="380.1" y="190.3" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">LLMS</text>
     <circle cx="284.2" cy="166.5" r="2.5" fill="#00d4ff" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.7s" repeatCount="indefinite"/>
     </circle>
     <line x1="284.2" y1="166.5" x2="266.2" y2="167.9" stroke="#00d4ff" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="266.2" y="170.9" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">LangChain</text>
-    <text x="266.2" y="170.9" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">LangChain</text>
+    <text x="266.2" y="170.9" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">LangGraph</text>
+    <text x="266.2" y="170.9" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">LangGraph</text>
     <circle cx="257.1" cy="125.3" r="2.5" fill="#00d4ff" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="1.4s" repeatCount="indefinite"/>
     </circle>
     <line x1="257.1" y1="125.3" x2="239.3" y2="122.2" stroke="#00d4ff" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="239.3" y="125.2" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Agno</text>
-    <text x="239.3" y="125.2" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">Agno</text>
+    <text x="239.3" y="125.2" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">LangChain</text>
+    <text x="239.3" y="125.2" text-anchor="end" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">LangChain</text>
     <circle cx="414.4" cy="88.8" r="2.5" fill="#00d4ff" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.0999999999999996s" repeatCount="indefinite"/>
     </circle>
     <line x1="414.4" y1="88.8" x2="411.6" y2="71.0" stroke="#00d4ff" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="411.6" y="74.0" text-anchor="middle" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Eng. de Prompt</text>
-    <text x="411.6" y="74.0" text-anchor="middle" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">Eng. de Prompt</text>
+    <text x="411.6" y="74.0" text-anchor="middle" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Agno</text>
+    <text x="411.6" y="74.0" text-anchor="middle" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">Agno</text>
     <circle cx="372.0" cy="136.2" r="2.5" fill="#a78bfa" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
@@ -300,8 +300,8 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="1.4s" repeatCount="indefinite"/>
     </circle>
     <line x1="617.4" y1="137.2" x2="635.3" y2="135.5" stroke="#a78bfa" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="635.3" y="138.5" text-anchor="start" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Pandas</text>
-    <text x="635.3" y="138.5" text-anchor="start" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">Pandas</text>
+    <text x="635.3" y="138.5" text-anchor="start" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Power BI</text>
+    <text x="635.3" y="138.5" text-anchor="start" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">Power BI</text>
     <circle cx="645.3" cy="190.8" r="2.5" fill="#a78bfa" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.0999999999999996s" repeatCount="indefinite"/>
     </circle>
@@ -330,8 +330,8 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.0999999999999996s" repeatCount="indefinite"/>
     </circle>
     <line x1="203.8" y1="190.4" x2="186.0" y2="193.3" stroke="#ffb020" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="186.0" y="196.3" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Firecrawl</text>
-    <text x="186.0" y="196.3" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Firecrawl</text>
+    <text x="186.0" y="196.3" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">RAG</text>
+    <text x="186.0" y="196.3" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">RAG</text>
 
   <!-- 9. Project stars -->
     <circle cx="464.1" cy="86.5" r="4" fill="#00d4ff" filter="url(#star-glow-0)">
