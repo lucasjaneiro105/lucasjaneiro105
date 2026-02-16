@@ -4,23 +4,25 @@ username: lucasjaneiro105
 # Informações do Perfil
 profile:
   name: "Lucas Janeiro"
-  tagline: "Engenheiro de IA | Especialista em Agentes"
+  tagline: "Engenheiro de IA | Automação Inteligente"
   location: "Rio de Janeiro, Brasil"
   bio: |
     Bacharel em Ciência da Computação e ex-ONS.
     Focado em construir Agentes de IA autônomos, automação de fluxos com n8n e análise de dados com Python.
   philosophy: '"A automação inteligente é o futuro da eficiência."'
 
+# Redes Sociais
 social:
-  email: "lucasjaneiro200@gmail.com" 
-  linkedin: "https://www.linkedin.com/in/lucas-janeiro-80a4b1249/" 
-  website: "n/a"
+  email: "lucasjaneiro200@gmail.com"
+  linkedin: "lucas-janeiro-80a4b1249"
+  website: "https://github.com/lucasjaneiro105"
 
+# Braços da Galáxia (Suas áreas de foco)
 galaxy_arms:
   - name: "AI Agents & LLMs"
     color: "synapse_cyan"
     items:
-      - "LLMS"
+      - "LLMs"
       - "LangGraph"
       - "LangChain"
       - "Agno"
@@ -38,10 +40,20 @@ galaxy_arms:
     items:
       - "n8n"
       - "MCP"
-      - "Docker"
+      - "LangSmith"
       - "RAG"
 
-# Cores do Tema (Padrão Dark Space)
+# Projetos (OBRIGATÓRIO PARA A CONSTELAÇÃO APARECER)
+# Mantive o próprio repositório do perfil para não dar erro.
+projects:
+  - repo: "lucasjaneiro105/lucasjaneiro105"
+    arm: 0
+    description: "Meu perfil galáctico com métricas em tempo real."
+  - repo: "lucasjaneiro105/lucasjaneiro105" 
+    arm: 2
+    description: "Automações e estudos em IA Generativa."
+
+# Cores do Tema
 theme:
   void: "#080c14"
   nebula: "#0f1623"
@@ -53,7 +65,7 @@ theme:
   text_dim: "#94a3b8"
   text_faint: "#64748b"
 
-# Métricas que aparecem no card
+# Métricas
 stats:
   metrics:
     - "commits"
@@ -62,7 +74,7 @@ stats:
     - "issues"
     - "repos"
 
-# Configuração de Linguagens
+# Linguagens
 languages:
   exclude:
     - "HTML"
