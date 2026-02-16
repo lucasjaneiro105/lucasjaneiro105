@@ -1,85 +1,73 @@
-# Galaxy Profile README Configuration
-# Copy this file to config.yml and customize it to make it your own!
-#
-# Usage:
-#   cp config.example.yml config.yml
-#   # Edit config.yml with your details
-#   python -m generator.main
-#
-# Demo mode (no API calls, uses this file directly):
-#   python -m generator.main --demo
-
-# Your GitHub username (required)
+# Galaxy Profile Configuration - Lucas Janeiro
 username: lucasjaneiro105
 
-# Profile information displayed in the galaxy header
+# Informações do Perfil
 profile:
   name: "Lucas Janeiro"
-  tagline: "Engenheiro de IA"
-  location: "Brasil"
+  tagline: "Engenheiro de IA | Especialista em Agentes"
+  location: "Rio de Janeiro, Brasil"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+    Bacharel em Ciência da Computação e ex-ONS.
+    Focado em construir Agentes de IA autônomos, automação de fluxos com n8n e análise de dados com Python.
+  philosophy: '"A automação inteligente é o futuro da eficiência."'
 
-# Social links displayed at the bottom of the profile
+# Redes Sociais (Edite com seus links reais)
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "seu.email@exemplo.com" # <--- COLOCAR SEU EMAIL
+  linkedin: "lucasjaneiro"       # <--- COLOCAR SEU USUARIO LINKEDIN
+  website: "https://github.com/lucasjaneiro105"
 
-# Galaxy arms represent your core focus areas
-# Each arm spirals out from the center with its own color and tech items
-# Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
+# Braços da Galáxia (Suas áreas de foco)
 galaxy_arms:
-  - name: "Frontend"
-    color: "dendrite_violet"
-    items:
-      - "Multi-Agentes"
-      - "MCP"
-      - "Engenharia de Prompt"
-      - "Arquitetura React"
-  - name: "Backend"
+  - name: "AI Agents & LLMs"
     color: "synapse_cyan"
     items:
       - "LangGraph"
       - "LangChain"
       - "Agno"
-      - "n8n"
-  - name: "DevOps"
+      - "Eng. de Prompt"
+  
+  - name: "Data & Python"
+    color: "dendrite_violet"
+    items:
+      - "Python"
+      - "DuckDB"
+      - "Pandas"
+      - "SQL Analytics"
+
+  - name: "Automation & Ops"
     color: "axon_amber"
     items:
+      - "n8n"
+      - "MCP"
       - "Docker"
-      - "AWS"
-      - "GIT"
+      - "Firecrawl"
 
-# Featured projects shown as constellation stars
-# Each project needs:
-#   repo: "owner/repo-name"   — GitHub repository path
-#   arm: 0-2                  — Which galaxy arm to associate with (index)
-#   description: "..."        — Short description shown on the card
+# Projetos em Destaque
+# IMPORTANTE: Se os repositórios abaixo ainda não existirem com esse nome exato,
+# o gráfico pode não aparecer. Crie os repos ou ajuste os nomes aqui.
 projects:
-  - repo: "galaxy-dev/nebula-ui"
+  - repo: "lucasjaneiro105/projeto-langgraph-duckdb" # Ajuste para o nome real do seu repo
     arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
-    arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "Agente autônomo com validação semântica de SQL usando LangGraph e DuckDB."
+  
+  - repo: "lucasjaneiro105/cybersecurity-osint" # Ajuste para o nome real do seu repo
+    arm: 2
+    description: "Ferramentas de OSINT para simulação de campanhas de phishing e defesa."
 
-# Theme color overrides (optional — defaults to deep space palette)
-# All values must be valid hex color codes (#RRGGBB)
+# Cores do Tema (Padrão Dark Space)
 theme:
-  void: "#080c14"              # Darkest background
-  nebula: "#0f1623"            # Card backgrounds
-  star_dust: "#1a2332"         # Borders, dividers
-  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
-  dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
-  axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
-  text_bright: "#f1f5f9"       # Primary text
-  text_dim: "#94a3b8"          # Secondary text
-  text_faint: "#64748b"        # Muted text, labels
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
 
-# Stats configuration — which metrics to show on the telemetry card
+# Métricas que aparecem no card
 stats:
   metrics:
     - "commits"
@@ -88,11 +76,10 @@ stats:
     - "issues"
     - "repos"
 
-# Language display settings
+# Configuração de Linguagens
 languages:
-  exclude:                     # Languages to hide from the telemetry chart
+  exclude:
     - "HTML"
     - "CSS"
-    - "Shell"
-    - "Makefile"
-  max_display: 8               # Maximum number of languages to show
+    - "Jupyter Notebook" # Opcional: esconder notebooks se quiser focar em código puro
+  max_display: 8
