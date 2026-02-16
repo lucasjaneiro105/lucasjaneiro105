@@ -35,21 +35,21 @@ galaxy_arms:
   - name: "Frontend"
     color: "dendrite_violet"
     items:
-      - "TypeScript"
-      - "React"
-      - "CSS"
+      - "Multi-Agentes"
+      - "MCP"
+      - "Engenharia de Prompt"
   - name: "Backend"
     color: "synapse_cyan"
     items:
-      - "Python"
-      - "Node.js"
-      - "PostgreSQL"
+      - "LangGraph"
+      - "LangChain"
+      - "Agno"
   - name: "DevOps"
     color: "axon_amber"
     items:
       - "Docker"
-      - "GitHub Actions"
       - "AWS"
+      - "GIT"
 
 # Featured projects shown as constellation stars
 # Each project needs:
