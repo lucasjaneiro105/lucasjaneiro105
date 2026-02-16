@@ -22,17 +22,17 @@ galaxy_arms:
   - name: "AI Agents & LLMs"
     color: "synapse_cyan"
     items:
+      - "LLMS"
       - "LangGraph"
       - "LangChain"
       - "Agno"
-      - "Eng. de Prompt"
   
   - name: "Data & Python"
     color: "dendrite_violet"
     items:
       - "Python"
       - "DuckDB"
-      - "Pandas"
+      - "Power BI"
       - "SQL Analytics"
 
   - name: "Automation & Ops"
@@ -41,7 +41,7 @@ galaxy_arms:
       - "n8n"
       - "MCP"
       - "Docker"
-      - "Firecrawl"
+      - "RAG"
 
 # Projetos em Destaque
 # IMPORTANTE: Se os repositórios abaixo ainda não existirem com esse nome exato,
